@@ -24,10 +24,6 @@ USA in 2015, which airline performs the best and which airline performs the wors
 During what time period, does the air route from Washington D.C. to New York sees the most
 delays? What are the reason for delays? Advices that we can give to airlines to better improve
 their service.
-# Business Question 3:
-Is there a relationship between customer's attitude on social media with performance of airlines
-? Should people rely on social media platforms to choose airlines or should the airline
-companies use social media to monitor their brands?
 
 
 
