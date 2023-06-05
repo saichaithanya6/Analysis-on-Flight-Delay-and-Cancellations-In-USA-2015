@@ -1,10 +1,10 @@
 # Dataset
-For the project, I would like to look into the Flight delays and cancellations in the United States . More specifically, the dataset presents flight data from all the domestic airlines in the year 2015. Some of the data includes flight performance(time delays or aheads), flight origins and destinations, flight identifications.
+For this project, I would like to look into the Flight delays and cancellations in the United States . More specifically, the dataset presents flight data from all the domestic airlines in the year 2015. Some of the data includes flight performance(time delays or aheads), flight origins and destinations, flight identifications.
 
 You can download the dataset by unzipping the folder which can be downloded here:(https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv).
 The dataset’s size is 592.41 MB and is last updated on 2015. The dataset contains data from over 5800k domestic flight trips completed.
 
-## Datasetsource
+## Dataset source
 The flight delay and cancellation data was collected and published by the DOT's Bureau of
 Transportation Statistics. The U.S. Department of Transportation's (DOT) Bureau of
 Transportation Statistics tracks the on-time performance of domestic flights operated by large
